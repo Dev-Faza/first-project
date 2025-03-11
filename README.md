@@ -1,3 +1,3 @@
-# first-project
+cd# first-project
 this is my first project 
-<br> author : Faza 
+<br> author : Faza Qamar 
